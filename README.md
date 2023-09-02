@@ -1,7 +1,7 @@
 # How to Get Attribute [GetAtt] in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/getatt-aws-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-share-resources-between-stacks)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
